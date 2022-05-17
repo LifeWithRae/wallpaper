@@ -23,6 +23,9 @@
 -----
 **壁纸在线演示** [https://wallpaper.church.tk](https://wallpaper.church.tk)
 
+**网站首页截图** 
+![image](https://user-images.githubusercontent.com/105709166/168784115-bd62d1a0-7679-4b14-95dc-344e7c331a09.png)
+
 **壁纸详细介绍** [https://ruiwen.org/761.html](https://ruiwen.org/761.html)
 
 **GitHub** [https://github.com/LifeWithRae/wallpaper](https://github.com/LifeWithRae/wallpaper)
