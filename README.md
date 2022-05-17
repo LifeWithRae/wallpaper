@@ -23,6 +23,6 @@
 -----
 **壁纸在线演示** [https://wallpaper.church.tk](https://wallpaper.church.tk)
 
-**壁纸详细介绍** 
+**壁纸详细介绍** [https://ruiwen.org/761.html](https://ruiwen.org/761.html)
 
 **GitHub** [https://github.com/LifeWithRae/wallpaper](https://github.com/LifeWithRae/wallpaper)
